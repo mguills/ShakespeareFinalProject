@@ -1,0 +1,44 @@
+defaultdict(<type 'int'>, {'ghost': 3, 'king': 4, 'i': 33, 'horatio': 1, 'father': 3, 'me': 17, 'lord': 1, 'you': 34})
+
+
+defaultdict(<type 'int'>, {'me': 24, 'king': 5, 'rosencrantz': 1, 'i': 40, 'queen': 3, 'father': 2, 'gentlemen': 1, 'lord': 2, 'you': 39})
+
+
+defaultdict(<type 'int'>, {'ghost': 1, 'king': 4, 'horatio': 1, 'i': 61, 'queen': 2, 'father': 6, 'me': 22, 'mother': 11, 'lord': 2, 'you': 82})
+
+
+defaultdict(<type 'int'>, {'me': 1, 'king': 7, 'i': 9, 'father': 2, 'mother': 3, 'you': 10})
+
+
+defaultdict(<type 'int'>, {'me': 23, 'king': 1, 'horatio': 3, 'i': 57, 'ophelia': 2, 'queen': 1, 'fortinbras': 1, 'laertes': 5, 'mother': 1, 'lord': 3, 'you': 18, 'osric': 1})
+
+
+
+
+defaultdict(<type 'int'>, {'me': 5, 'marcus': 1, 'i': 13, 'lavinia': 1, 'andronicus': 1, 'you': 14, 'bassianus': 1})
+
+
+defaultdict(<type 'int'>, {'i': 2, 'me': 1, 'you': 1})
+
+
+defaultdict(<type 'int'>, {'me': 21, 'marcus': 7, 'i': 41, 'lucius': 4, 'aaron': 3, 'lavinia': 5, 'you': 6})
+
+
+defaultdict(<type 'int'>, {'me': 9, 'marcus': 5, 'i': 8, 'chiron': 1, 'lucius': 4, 'publius': 3, 'you': 16, 'sempronius': 1})
+
+
+defaultdict(<type 'int'>, {'me': 9, 'caius': 1, 'i': 21, 'chiron': 2, 'valentine': 1, 'publius': 1, 'lavinia': 3, 'you': 21})
+
+
+
+
+defaultdict(<type 'int'>, {'i': 1, 'king': 4})
+
+
+defaultdict(<type 'int'>, {'i': 12, 'me': 15, 'you': 4, 'isabella': 3, 'horatio': 4})
+
+
+defaultdict(<type 'int'>, {'bazulto': 2, 'king': 4, 'isabella': 3, 'i': 84, 'horatio': 14, 'me': 54, 'pedringano': 1, 'lorenzo': 11, 'balthazar': 4, 'you': 37})
+
+
+defaultdict(<type 'int'>, {'me': 20, 'king': 2, 'viceroy': 4, 'i': 56, 'horatio': 2, 'lorenzo': 5, 'balthazar': 2, 'you': 25})
